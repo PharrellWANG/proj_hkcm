@@ -731,3 +731,5 @@ ASALocalRun/
 
 # NVidia Nsight GPU debugger configuration file
 *.nvuser
+proj_hkcm/dev_db.py
+logs/hkcm*

@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/1.11/ref/settings/
 """
 
 import os
-
+from proj_hkcm.dev_db import DEV_DATABASES
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -75,27 +75,7 @@ WSGI_APPLICATION = 'proj_hkcm.wsgi.application'
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
 if DEBUG:
-    DATABASES = {
-        # 'default': {
-        #     'ENGINE': 'django.db.backends.mysql',
-        #     'NAME': 'crimemap',
-        #     'USER': 'root',
-        #     'PASSWORD': 'bitnami',
-        #     'HOST': '127.0.0.1',
-        #     'PORT': '3306',
-        # },
-        'default': {
-            # Below line for ubuntu
-            # 'ENGINE': 'django.db.backends.postgresql',
-            # Below line for macos
-            'ENGINE': 'django.db.backends.postgresql_psycopg2',
-            'NAME': 'crimemap',
-            'USER': 'postgres',
-            'PASSWORD': 'ubuntu',
-            'HOST': '127.0.0.1',
-            'PORT': '5432',
-        }
-    }
+    DATABASES = DEV_DATABASES
 else:
     DATABASES = {
         # 'default': {

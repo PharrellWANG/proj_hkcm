@@ -9,7 +9,6 @@ cffi==1.10.0
 chardet==2.3.0
 click==6.7
 coverage==4.3.4
-cryptography==1.9
 decorator==4.0.11
 Django==1.11.12
 django-celery==3.2.1

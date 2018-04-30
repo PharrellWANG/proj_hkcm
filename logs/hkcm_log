@@ -1,0 +1,648 @@
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] violent crime
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] violent crime
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] violent crime
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] violent crime
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] violent crime
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] motor vehicles reported missing
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] motor vehicles reported missing
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] violent crime
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] all thefts
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] violent crime
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] violent crime
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] violent crime
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] violent crime
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] criminal intimidation
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] violent crime
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] violent crime
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] criminal intimidation
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] violent crime
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] criminal intimidation
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] all thefts
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] all thefts
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] violent crime
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] violent crime
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] violent crime
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] violent crime
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] criminal intimidation
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] all thefts
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] violent crime
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] deception
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] burglary
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] rape
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] homicide
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] robbery
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] wounding and serious assault
+[30/Apr/2018 09:52:54] DEBUG [hkcm.list_json:29] serious drug offenses
+[30/Apr/2018 09:53:04] DEBUG [hkcm.views:211] 775
+[30/Apr/2018 09:53:04] DEBUG [hkcm.views:212] 5265
+[30/Apr/2018 09:53:04] DEBUG [hkcm.views:214] 14.7
+[30/Apr/2018 09:53:04] DEBUG [hkcm.views:215] <class 'float'>
+[30/Apr/2018 09:53:04] DEBUG [hkcm.views:259] =========
+[30/Apr/2018 09:53:04] DEBUG [hkcm.views:260] =========
+[30/Apr/2018 09:53:04] DEBUG [hkcm.views:261] =====??????????====
+[30/Apr/2018 09:53:04] DEBUG [hkcm.views:262] 775
+[30/Apr/2018 09:53:04] DEBUG [hkcm.views:263] maximum_crime_rate is: 243.63
+[30/Apr/2018 09:53:04] DEBUG [hkcm.views:264] =========
+[30/Apr/2018 09:53:04] DEBUG [hkcm.views:265] 
+[30/Apr/2018 09:53:06] DEBUG [hkcm.views:40] 5265
+[30/Apr/2018 10:04:19] DEBUG [hkcm.views:40] 5265
+[30/Apr/2018 10:04:23] DEBUG [hkcm.views:211] 775
+[30/Apr/2018 10:04:23] DEBUG [hkcm.views:212] 5265
+[30/Apr/2018 10:04:23] DEBUG [hkcm.views:214] 14.7
+[30/Apr/2018 10:04:23] DEBUG [hkcm.views:215] <class 'float'>
+[30/Apr/2018 10:04:23] DEBUG [hkcm.views:259] =========
+[30/Apr/2018 10:04:23] DEBUG [hkcm.views:260] =========
+[30/Apr/2018 10:04:23] DEBUG [hkcm.views:261] =====??????????====
+[30/Apr/2018 10:04:23] DEBUG [hkcm.views:262] 775
+[30/Apr/2018 10:04:23] DEBUG [hkcm.views:263] maximum_crime_rate is: 243.63
+[30/Apr/2018 10:04:23] DEBUG [hkcm.views:264] =========
+[30/Apr/2018 10:04:23] DEBUG [hkcm.views:265] 
+[30/Apr/2018 10:05:16] DEBUG [hkcm.views:11] 
+[30/Apr/2018 10:33:28] DEBUG [hkcm.views:11] 
+[30/Apr/2018 10:33:45] DEBUG [hkcm.views:11] 
+[30/Apr/2018 10:33:45] DEBUG [hkcm.views:40] 5265
+[30/Apr/2018 10:34:03] DEBUG [hkcm.views:211] 775
+[30/Apr/2018 10:34:03] DEBUG [hkcm.views:212] 5265
+[30/Apr/2018 10:34:03] DEBUG [hkcm.views:214] 14.7
+[30/Apr/2018 10:34:03] DEBUG [hkcm.views:215] <class 'float'>
+[30/Apr/2018 10:34:03] DEBUG [hkcm.views:259] =========
+[30/Apr/2018 10:34:03] DEBUG [hkcm.views:260] =========
+[30/Apr/2018 10:34:03] DEBUG [hkcm.views:261] =====??????????====
+[30/Apr/2018 10:34:03] DEBUG [hkcm.views:262] 775
+[30/Apr/2018 10:34:03] DEBUG [hkcm.views:263] maximum_crime_rate is: 243.63
+[30/Apr/2018 10:34:03] DEBUG [hkcm.views:264] =========
+[30/Apr/2018 10:34:03] DEBUG [hkcm.views:265] 

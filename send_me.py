@@ -1,0 +1,1 @@
+#!/usr/bin/env pythonimport loggingimport osimport djangoimport emailingos.environ.setdefault("DJANGO_SETTINGS_MODULE", "proj_hkcm.settings")django.setup()FLOAT_DATA_FORMAT = '{:,.2f}'log = logging.getLogger(__name__)log.debug("")if __name__ == "__main__":    my_emailing = emailing.GeneralEmail()    my_emailing.email_for_time_report(30)

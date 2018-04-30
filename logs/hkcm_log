@@ -646,3 +646,19 @@
 [30/Apr/2018 10:34:03] DEBUG [hkcm.views:263] maximum_crime_rate is: 243.63
 [30/Apr/2018 10:34:03] DEBUG [hkcm.views:264] =========
 [30/Apr/2018 10:34:03] DEBUG [hkcm.views:265] 
+[30/Apr/2018 10:59:28] DEBUG [hkcm.views:11] 
+[30/Apr/2018 10:59:28] DEBUG [hkcm.views:40] 5265
+[30/Apr/2018 10:59:34] DEBUG [hkcm.views:11] 
+[30/Apr/2018 10:59:35] DEBUG [hkcm.views:40] 5265
+[30/Apr/2018 10:59:38] DEBUG [hkcm.views:211] 775
+[30/Apr/2018 10:59:38] DEBUG [hkcm.views:212] 5265
+[30/Apr/2018 10:59:38] DEBUG [hkcm.views:214] 14.7
+[30/Apr/2018 10:59:38] DEBUG [hkcm.views:215] <class 'float'>
+[30/Apr/2018 10:59:38] DEBUG [hkcm.views:259] =========
+[30/Apr/2018 10:59:38] DEBUG [hkcm.views:260] =========
+[30/Apr/2018 10:59:38] DEBUG [hkcm.views:261] =====??????????====
+[30/Apr/2018 10:59:38] DEBUG [hkcm.views:262] 775
+[30/Apr/2018 10:59:38] DEBUG [hkcm.views:263] maximum_crime_rate is: 243.63
+[30/Apr/2018 10:59:38] DEBUG [hkcm.views:264] =========
+[30/Apr/2018 10:59:38] DEBUG [hkcm.views:265] 
+[30/Apr/2018 10:59:39] DEBUG [hkcm.views:40] 5265

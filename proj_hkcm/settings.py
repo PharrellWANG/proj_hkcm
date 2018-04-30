@@ -91,7 +91,7 @@ if DEBUG:
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
             'NAME': 'crimemap',
             'USER': 'postgres',
-            'PASSWORD': 'bitnami',
+            'PASSWORD': 'ubuntu',
             'HOST': '127.0.0.1',
             'PORT': '5432',
         }
@@ -113,7 +113,7 @@ else:
             # 'ENGINE': 'django.db.backends.postgresql_psycopg2',
             'NAME': 'crimemap',
             'USER': 'postgres',
-            'PASSWORD': 'bitnami',
+            'PASSWORD': 'ubuntu',
             'HOST': '127.0.0.1',
             'PORT': '5432',
         }

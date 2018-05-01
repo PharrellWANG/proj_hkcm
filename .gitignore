@@ -733,3 +733,5 @@ ASALocalRun/
 *.nvuser
 proj_hkcm/dev_db.py
 logs/hkcm*
+docs/_build_html/
+docs/_templates/

@@ -62,7 +62,7 @@ local.properties
 [Ll]ib
 [Ll]ib64
 [Ll]ocal
-[Ss]cripts
+#[Ss]cripts
 pyvenv.cfg
 .venv
 pip-selfcheck.json
@@ -290,10 +290,6 @@ TSWLatexianTemp*
 
 # KBibTeX
 *~[0-9]*
-
-# auto folder when using emacs and auctex
-./auto/*
-*.el
 
 # expex forward references with \gathertags
 *-tags.tex

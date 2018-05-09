@@ -12,5 +12,6 @@ urlpatterns = [
 
     # urls for json data list
     url(r'^hkcm/FilterCrimeListJson/$', list_json.FilterCrimeListJson.as_view()),
-    url(r'^airport-departure/$', list_json.AirportDeparture.as_view()),
+    url(r'^airport-dep/$', list_json.AirportDeparture.as_view()),
+    url(r'^airport-arr/$', list_json.AirportArrival.as_view()),
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
